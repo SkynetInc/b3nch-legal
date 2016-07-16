@@ -1,12 +1,12 @@
 # Our Terms & Conditions
 
-Thank you for visiting our website. This website is owned and operated by B3NCH Pty Ltd ABN 23 610 352 246. By accessing and/or using this website and related services, you agree to these Terms and Conditions, which include our Privacy Policy available at [privacy-policy](htt://www.b3nch.com/privacy-policy).
+Thank you for visiting our website. This website is owned and operated by B3NCH Pty Ltd ABN 23 610 352 246. By accessing and/or using this website and related services, you agree to these Terms and Conditions, which include our Privacy Policy available at [privacy-policy](http://www.b3nch.com/privacy).
 In these Terms, 'us', 'we' and 'our' means B3NCH Pty Ltd.
 
 ### 1. Registration
 
 You must be a registered member to access our products and services on  our website.
-When you register and activate your account, you will provide us with personal information such as your gmail or LinkedIn account details, these include name, email address and telephone number. You must ensure that this information is accurate and current. We will handle all personal information we collect in accordance with our [privacy-policy](htt://www.b3nch.com/privacy-policy).
+When you register and activate your account, you will provide us with personal information such as your gmail or LinkedIn account details, these include name, email address and telephone number. You must ensure that this information is accurate and current. We will handle all personal information we collect in accordance with our [privacy-policy](http://www.b3nch.com/privacy).
 When you register and activate your account, we will provide you with a user name and password. You are responsible for keeping this user name and password secure and are responsible for all use and activity carried out under this user name.
 
 ##### To create an account, you must be:
@@ -18,7 +18,7 @@ When you register and activate your account, we will provide you with a user nam
 
 ### 2. Collection Notice
 
-B3NCH Pty Ltd ABN 23 610 352 246 ('we', 'us' or 'our') collect personal information about you in order to process your registration and provide you with access to B3nch and for purposes otherwise set out in our Privacy Policy at [privacy-policy](htt://www.b3nch.com/privacy-policy).
+B3NCH Pty Ltd ABN 23 610 352 246 ('we', 'us' or 'our') collect personal information about you in order to process your registration and provide you with access to B3nch and for purposes otherwise set out in our Privacy Policy at [privacy-policy](http://www.b3nch.com/privacy).
 The information you provide will be collected by or on behalf of us and may be disclosed to third parties that help us deliver our services (including information technology suppliers, communication suppliers and our business partners) or as required by law. If you do not provide this information, we may not be able to provide all our services to you. We may disclose personal information outside of Australia to Partner’s and Third Party suppliers located in New Zealand, United Kingdom and United States of America.
 Our Privacy Policy explains:
 
@@ -37,7 +37,7 @@ We may, from time to time and without notice, change or add to the website (incl
 
 ### 4. Purchases
 
-Please contact us directly for all pricing enquiries using the chat icon in the bottom right hand corner of  [b3nch.com](htt://www.b3nch.com/contact).
+Please contact us directly for all pricing enquiries using the chat icon in the bottom right hand corner of  [b3nch.com](http://www.b3nch.com/).
 
 IN AUSTRALIA, OUR GOODS AND SERVICES COME WITH GUARANTEES THAT CANNOT BE EXCLUDED UNDER THE AUSTRALIAN CONSUMER LAW. NOTHING IN THESE TERMS AND CONDITIONS PURPORTS TO MODIFY OR EXCLUDE THE CONDITIONS, WARRANTIES AND UNDERTAKINGS, AND OTHER LEGAL RIGHTS, UNDER THE AUSTRALIAN COMPETITION AND CONSUMER ACT AND OTHER LAWS. ANY AND ALL OTHER WARRANTIES OR CONDITIONS WHICH ARE NOT GUARANTEED BY THE AUSTRALIAN CONSUMER LAW OR THE COMPETITION AND CONSUMER REGULATION 2010 ARE EXPRESSLY EXCLUDED WHERE PERMITTED, INCLUDING LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES CAUSED BY BREACH OF ANY EXPRESS OR IMPLIED WARRANTY OR CONDITION.
 
