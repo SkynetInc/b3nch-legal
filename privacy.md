@@ -1,5 +1,5 @@
 # Our Privacy Policy
-In this Privacy Policy, 'us' 'we' or 'our' means B3NCH Pty Ltd ABN 23 610 352 246. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
+In this Privacy Policy, 'us' 'we' or 'our' means Bench Pty Ltd ABN 23 610 352 246. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
 
 By providing personal information to us, you consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy and any other arrangements that apply between us. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
 
@@ -41,9 +41,9 @@ In addition, when you apply for a job or position with us we may collect certain
 
 We may collect, hold, use and disclose your personal information for the following purposes:
 
-* to enable you to access and use our website [www.b3nch.com](http://www.b3nch.com) and our [platform](http://www.b3nch.com) and the iOS and Android B3nch mobile apps
+* to enable you to access and use our website [www.bench.ai](http://www.bench.ai) and our [platform](http://www.bench.ai) and the iOS and Android Bench mobile apps
 
-* to operate, protect, improve and optimise our website [www.b3nch.com](http://www.b3nch.com) and [platform](http://www.b3nch.com), and the B3nch mobile apps apps for iOS and Android, business and our users’ experience, such as to perform analytics, conduct research and for advertising and marketing
+* to operate, protect, improve and optimise our website [www.bench.ai](http://www.bench.ai) and [platform](http://www.bench.ai), and the Bench mobile apps apps for iOS and Android, business and our users’ experience, such as to perform analytics, conduct research and for advertising and marketing
 
 * to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you
 
@@ -105,7 +105,7 @@ If you think we have breached the Privacy Act, or you wish to make a complaint a
 ### Contact Us
 For further information about our Privacy Policy or practices, or to access or correct your personal information, or make a complaint, please contact us using the details set out below:
 
-<privacy@b3nch.com>
+<privacy@bench.com>
 
 ### Effective:
-22nd May 2016
+28 November 2016
